@@ -8,7 +8,7 @@ The aim of this repository is to create and save the solutions of some `.js` exe
 
 # Technologies
 
-- [{JavaScript}]({https://developer.mozilla.org/pt-BR/docs/Web/JavaScript})
+- [JavaScript]({https://developer.mozilla.org/pt-BR/docs/Web/JavaScript})
 
 # Setup
 
